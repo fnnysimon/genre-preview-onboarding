@@ -36,3 +36,7 @@ A two-column layout where genre selection on the left updates a live book previe
 ## What I Learned
 
 The most interesting decision wasn't visual — it was the genre matching logic. Testing AND vs OR revealed how much the UI teaches users about what the system expects from them.
+
+## Notion 
+
+(https://jewel-scene-bcb.notion.site/Onboarding-Redesign-Process-Iteration-3ea52a1fcfb680108ef7c771e435b154)
