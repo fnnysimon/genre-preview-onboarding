@@ -24,7 +24,8 @@ A two-column layout where genre selection on the left updates a live book previe
 
 ## Design File
 
-[Figma]([https://www.figma.com/[your-figma-link]](https://www.figma.com/design/ij4co0ICuKGuZDXclfHgcD/Library-App?node-id=0-1&t=Di2AyCIRovvWB8KJ-1))
+[Figma]
+([https://www.figma.com/[your-figma-link]](https://www.figma.com/design/ij4co0ICuKGuZDXclfHgcD/Library-App?node-id=0-1&t=Di2AyCIRovvWB8KJ-1))
 
 ## Built With
 
