@@ -20,7 +20,7 @@ A two-column layout where genre selection on the left updates a live book previe
 
 ## Live Demo
 
-[https://bookstore-ecru-delta.vercel.app/onboarding](https://bookstore-ecru-delta.vercel.app/onboarding)
+[https://bookstore-ecru-delta.vercel.app/onboarding]([https://bookstore-ecru-delta.vercel.app/onboarding)](https://bookstore-ecru-delta.vercel.app/)
 
 ## Design File
 
